@@ -9,6 +9,3 @@ The original project from the class was meant to implement a simple version of t
 This is a fun exercise as calculators are so ubiquitous in our lives that we don't normally think about them. But after implementing one, I realise there are subtle behaviours that if not implemented well, makes the calculator a frustrating experience. For example, after the user presses the equal (=) button to get a result, if the user presses another number, the calculator should clear previous values to prepare for the new calculation. However, if the user presses another operator (+-x÷) button, the calculator should continue calculations based on the last result.
 
 This calculator can be viewed [here](https://yychan76.github.io/javascript_calculator/).
-
-<iframe src="https://yychan76.github.io/javascript_calculator/" title="Javascript Calculator" height=500 width=400>
-</iframe>
